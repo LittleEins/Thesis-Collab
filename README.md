@@ -1,6 +1,6 @@
 
         Things to do in Manuscript:
-  	-Revise Chapter 1: Done
+  	    -Revise Chapter 1: Done
         -Revise Chapter 3:
             -Update the prototype page(Optional)
             -Update the Implementation Plan(Optional)
