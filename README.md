@@ -6,14 +6,16 @@
             -Update the Implementation Plan(Optional)
             -Include the new implementation of Github Desktop for Tools, AJAX
             -Update Acceptability Test Calculation(Weighted mean)
+            -Edit Chapter 3 process
         -Update Chapter 4:
             -Add flow charts for the current process of the current system DONE
             -Add the processes(not all) based on the interview DONE
-            -Add features of the system - Work in Progress
-            -Attempt acceptability test
+            -Add features of the system - DONE
+            -Attempt acceptability test DRAFT
         -Update Chapter 5:
             -Place holder 1
-        -Update List of Figures:
+        -Update List of Figures: Placeholder created
+        -Update List of Tables: Placeholder created
         -Update Appendices include Deliverables from /Deliverables/files
         -Update Table of Content
         
