@@ -24,7 +24,7 @@
 - [x] Update new Figures
 - [ ] Update pagination
 ### Update List of Tables: Placeholder created
-- [ ] Update new Tables
+- [x] Update new Tables
 - [ ] Update pagination
 ### Update Appendices include Deliverables from /Deliverables/files:
 - [ ] Add Interview Guide
