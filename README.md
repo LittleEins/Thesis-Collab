@@ -1,40 +1,39 @@
 ## Things to do in Manuscript:
 ### Revise Chapter 1: Done
 ### Revise Chapter 3:
-[ x ]Update the prototype page(Optional)
-[ x ]Update the Implementation Plan(Optional)
-[ x ]Update Methodology Phases
-[ x ]Update Scrum Artifacts
-[ x ]Update Population and Locale of the Study
-[ x ]Update Data Instrumentation
-[ x ]Update Tools for Data Analysis
-[ x ]Update Tools for System Development
-[ x ]Update Implementation Plan
-[ x ]Include the new implementation of Github Desktop for Tools
-[ x ]Update Acceptability Test Calculation(Weighted mean)
-
+- [ ]Update the prototype page(Optional)
+- [ ]Update the Implementation Plan(Optional)
+- [ ]Update Methodology Phases
+- [ ]Update Scrum Artifacts
+- [ ]Update Population and Locale of the Study
+- [ ]Update Data Instrumentation
+- [ ]Update Tools for Data Analysis
+- [ ]Update Tools for System Development
+- [ ]Update Implementation Plan
+- [ ]Include the new implementation of Github Desktop for Tools
+- [ ]Update Acceptability Test Calculation(Weighted mean)
 ### Update Chapter 4:
-[ x ]Add flow charts for the current process of the current system
-[ x ]Add the processes(not all) based on the interview 
-[ x ]Add features of the system 
-[ ]Attempt acceptability test DRAFT
+- [ ]Add flow charts for the current process of the current system
+- [ ]Add the processes(not all) based on the interview 
+- [ ]Add features of the system 
+- [ ]Attempt acceptability test DRAFT
 ### Update Chapter 5:
-[ ]Create Place Holder Chapters
+- [ ]Create Place Holder Chapters
 ### Update List of Figures: Placeholder created
 ### Update List of Tables: Placeholder created
 ### Update Appendices include Deliverables from /Deliverables/files:
-[ ] Add Interview Guide
-[ ] Add Interview Result
-[ ] 
+- [ ] Add Interview Guide
+- [ ] Add Interview Result
+- [ ] 
 ### Update Table of Content
 
 ### For the system: https://github.com/JerhomeVlogs/Tourism-system-1.1
 #### To create a local test for the system:
 **You will need these dependencies:**
-[ x ]Latest version of Composer
-[ x ]Latest version of PHP
-[ x ]Latest version of XAMPP
-[ x ]Latest version of Laravel
+- [ ]Latest version of Composer
+- [ ]Latest version of PHP
+- [ ]Latest version of XAMPP
+- [ ]Latest version of Laravel
 
 **After installing the dependencies, fork the repository and attempt to do the following:**
 1.) Update composer via cmd: **'composer update'**
