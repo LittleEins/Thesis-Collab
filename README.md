@@ -1,24 +1,24 @@
 ## Things to do in Manuscript:
 ### Revise Chapter 1: Done
 ### Revise Chapter 3:
-- [ ]Update the prototype page(Optional)
-- [ ]Update the Implementation Plan(Optional)
-- [ ]Update Methodology Phases
-- [ ]Update Scrum Artifacts
-- [ ]Update Population and Locale of the Study
-- [ ]Update Data Instrumentation
-- [ ]Update Tools for Data Analysis
-- [ ]Update Tools for System Development
-- [ ]Update Implementation Plan
-- [ ]Include the new implementation of Github Desktop for Tools
-- [ ]Update Acceptability Test Calculation(Weighted mean)
+- [ ] Update the prototype page(Optional)
+- [ ] Update the Implementation Plan(Optional)
+- [ ] Update Methodology Phases
+- [ ] Update Scrum Artifacts
+- [ ] Update Population and Locale of the Study
+- [ ] Update Data Instrumentation
+- [ ] Update Tools for Data Analysis
+- [ ] Update Tools for System Development
+- [ ] Update Implementation Plan
+- [ ] Include the new implementation of Github Desktop for Tools
+- [ ] Update Acceptability Test Calculation(Weighted mean)
 ### Update Chapter 4:
-- [ ]Add flow charts for the current process of the current system
-- [ ]Add the processes(not all) based on the interview 
-- [ ]Add features of the system 
+- [ ] Add flow charts for the current process of the current system
+- [ ] Add the processes(not all) based on the interview 
+- [ ] Add features of the system 
 - [ ]Attempt acceptability test DRAFT
 ### Update Chapter 5:
-- [ ]Create Place Holder Chapters
+- [ ] Create Place Holder Chapters
 ### Update List of Figures: Placeholder created
 ### Update List of Tables: Placeholder created
 ### Update Appendices include Deliverables from /Deliverables/files:
@@ -30,10 +30,10 @@
 ### For the system: https://github.com/JerhomeVlogs/Tourism-system-1.1
 #### To create a local test for the system:
 **You will need these dependencies:**
-- [ ]Latest version of Composer
-- [ ]Latest version of PHP
-- [ ]Latest version of XAMPP
-- [ ]Latest version of Laravel
+- [ ] Latest version of Composer
+- [ ] Latest version of PHP
+- [ ] Latest version of XAMPP
+- [ ] Latest version of Laravel
 
 **After installing the dependencies, fork the repository and attempt to do the following:**
 1.) Update composer via cmd: **'composer update'**
