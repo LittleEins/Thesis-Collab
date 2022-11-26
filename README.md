@@ -17,11 +17,15 @@
 - [x] Add the processes(not all) based on the interview 
 - [x] Add features of the system 
 - [ ] Attempt acceptability test DRAFT
-- [ ] Create Acceptability Questionnaires
+- [x] Create Acceptability Questionnaires
 ### Update Chapter 5:
 - [ ] Create Place Holder Chapters
-### Update List of Figures: Placeholder created
+### Update List of Figures:
+- [x] Update new Figures
+- [ ] Update pagination
 ### Update List of Tables: Placeholder created
+- [ ] Update new Tables
+- [ ] Update pagination
 ### Update Appendices include Deliverables from /Deliverables/files:
 - [ ] Add Interview Guide
 - [ ] Add Interview Result
