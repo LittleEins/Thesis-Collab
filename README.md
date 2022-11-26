@@ -27,11 +27,32 @@
 - [x] Update new Tables
 - [ ] Update pagination
 ### Update Appendices include Deliverables from /Deliverables/files:
-- [ ] Add Interview Guide
-- [ ] Add Interview Result
-- [ ] 
-### Update Table of Content
+- [x] Update Gannt Chart
+- [x] Update Workplan
+- [x] Add Interview Guide
+- [x] Add Interview Result
+- [ ] Update Letter to Conduct Studies
+- [ ] Create Flowchart
+- [ ] Create Entity Relationship Diagram
+- [ ] Create Use-case Diagram
+- [ ] Add Acceptability Questionnaires
+- [ ] Add Tabulation of Result
+- [ ] Add Certification of Grammar Check
+- [ ] Add Curriculum Vitae
 
+### Table of Contents
+- [ ] Update Approval Sheet
+- [ ] Add Acknowledgement
+- [ ] Add Abstract
+### Update Table of Content
+- [ ] Add Chapter 4
+- [ ] Add Chapter 5
+- [ ] Update Appendices
+- [ ] Update Pagination
+
+### Upon finishing the above tasks: go to Trello for merging documentations.
+
+### Prepare for Presentation upon endorsement. Task should be made on Trello Board.
 ### For the system: https://github.com/JerhomeVlogs/Tourism-system-1.1
 #### To create a local test for the system:
 **You will need these dependencies:**
@@ -48,8 +69,7 @@
 - 5.) Generate new key via: **'php artisan key:generate'**
 - 6.) Important: Open **XAMP and RUN Apache and MySQL.**
 - 7.) After that, go to MySQL admin and **import database from /dbfiles/.sql file.**
-- 8.) Run local server in cmd via: **'php artisan serve'**
-
+- 8.) Run local server in cmd via: **'php artisan serve'** or **'php artisan serve --host <current Ipv4 Address> --port 8000'**
 
 
 # For Account Testing:
@@ -59,12 +79,12 @@ pass: 11111111
 
 staff
 falls@gmail.com
-pass: 12121212 or 11111111
+pass:  11111111
 
 admin acc(office)
 bolinaotourism@gmail.com
-pass: 12121212 or 11111111
+pass: 12121212
 
 Sup admin
 admin@gmail.com
-pass: 12121212 or 11111111
+pass: 12121212
