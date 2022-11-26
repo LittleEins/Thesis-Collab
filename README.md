@@ -38,7 +38,7 @@
 - [ ] Add Acceptability Questionnaires
 - [ ] Add Tabulation of Result
 - [ ] Add Certification of Grammar Check
-- [ ] Add Curriculum Vitae
+## - [ ] Add Curriculum Vitae
 
 ### Table of Contents
 - [ ] Update Approval Sheet
@@ -60,9 +60,9 @@
 - [x] Latest version of PHP
 - [x] Latest version of XAMPP
 - [x] Latest version of Laravel
-
+- [ ] Mailhog.exe
 **After installing the dependencies, fork the repository and attempt to do the following:**
-- 1.) Update composer via cmd: **'composer update'**
+- 1.) Update composer via cmd: **'composer update' or 'composer update --ignore-platform-req=ext-gd'**
 - 2.) rename **env.example** to** .env**
 - 3.) Open **cmd** and clear cache via: *'php artisan cache:clear'*
 - 4.) Clear config via: **'php artisan config:clear'**
