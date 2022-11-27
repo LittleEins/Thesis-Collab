@@ -31,7 +31,7 @@
 - [x] Update Workplan
 - [x] Add Interview Guide
 - [x] Add Interview Result
-- [ ] Update Letter to Conduct Studies
+- [x] Update Letter to Conduct Studies
 - [ ] Create Flowchart
 - [ ] Create Entity Relationship Diagram
 - [ ] Create Use-case Diagram
@@ -60,7 +60,7 @@
 - [x] Latest version of PHP
 - [x] Latest version of XAMPP
 - [x] Latest version of Laravel
-- [ ] Mailhog.exe
+- [x] Mailhog.exe
 **After installing the dependencies, fork the repository and attempt to do the following:**
 - 1.) Update composer via cmd: **'composer update' or 'composer update --ignore-platform-req=ext-gd'**
 - 2.) rename **env.example** to** .env**
