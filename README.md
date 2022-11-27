@@ -32,9 +32,9 @@
 - [x] Add Interview Guide
 - [x] Add Interview Result
 - [x] Update Letter to Conduct Studies
-- [ ] Create Flowchart
+- [ ] Create Flowchart(Optional)
 - [ ] Create Entity Relationship Diagram
-- [ ] Create Use-case Diagram
+- [x] Create Use-case Diagram
 - [ ] Add Acceptability Questionnaires
 - [ ] Add Tabulation of Result
 - [ ] Add Certification of Grammar Check
