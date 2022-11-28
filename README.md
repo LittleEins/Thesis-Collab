@@ -32,9 +32,12 @@
 - [x] Add Interview Guide
 - [x] Add Interview Result
 - [x] Update Letter to Conduct Studies
-- [ ] Create Flowchart(Optional)
+- [ ] Create Product Backlog
+- [ ] Create Sprint Backlog
+- [ ] Create Sprints
 - [ ] Create Entity Relationship Diagram
-- [x] Create Use-case Diagram
+- [x] Create Use-case Diagram - [ ] Should be updated
+- [x] Create Use-case Description (Draft)
 - [x] Add Acceptability Questionnaires
 - [ ] Add Tabulation of Result
 - [ ] Add Certification of Grammar Check
