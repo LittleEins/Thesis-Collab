@@ -35,15 +35,15 @@
 - [ ] Create Flowchart(Optional)
 - [ ] Create Entity Relationship Diagram
 - [x] Create Use-case Diagram
-- [ ] Add Acceptability Questionnaires
+- [x] Add Acceptability Questionnaires
 - [ ] Add Tabulation of Result
 - [ ] Add Certification of Grammar Check
 ## - [ ] Add Curriculum Vitae
 
 ### Table of Contents
 - [ ] Update Approval Sheet
-- [ ] Add Acknowledgement
-- [ ] Add Abstract
+- [x] Add Acknowledgement(Draft)
+- [x] Add Abstract (Draft)
 ### Update Table of Content
 - [ ] Add Chapter 4
 - [ ] Add Chapter 5
