@@ -57,7 +57,7 @@
 ### Upon finishing the above tasks: go to Trello for merging documentations.
 
 ### Create Presentation Slides
-
+Link to Reference: https://docs.google.com/presentation/u/6/d/14k65m_4OO4nsgBJEzaYbk37VMoO9JYcK/edit#slide=id.p45
 ### Prepare for Presentation upon endorsement. Task should be made on Trello Board.
 ### For the system: https://github.com/JerhomeVlogs/Tourism-system-1.1
 #### To create a local test for the system:
