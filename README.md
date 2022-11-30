@@ -32,9 +32,9 @@
 - [x] Add Interview Guide
 - [x] Add Interview Result
 - [x] Update Letter to Conduct Studies
-- [ ] Create Product Backlog
-- [ ] Create Sprint Backlog
-- [ ] Create Sprints
+- [ ] Create Product Backlog (Optional)
+- [ ] Create Sprint Backlog (Optional)
+- [ ] Create Sprints (Optional)
 - [x] Create Entity Relationship Diagram
 - [x] Create Use-case Diagram - [x] Should be updated
 - [x] Create Use-case Description (Draft)
