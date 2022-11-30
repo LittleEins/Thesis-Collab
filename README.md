@@ -35,11 +35,12 @@
 - [ ] Create Product Backlog
 - [ ] Create Sprint Backlog
 - [ ] Create Sprints
-- [ ] Create Entity Relationship Diagram
-- [x] Create Use-case Diagram - [ ] Should be updated
+- [x] Create Entity Relationship Diagram
+- [x] Create Use-case Diagram - [x] Should be updated
 - [x] Create Use-case Description (Draft)
 - [x] Add Acceptability Questionnaires
 - [ ] Add Tabulation of Result
+- [x] Add List of Establishments
 - [ ] Add Certification of Grammar Check
 ## - [ ] Add Curriculum Vitae
 
@@ -54,6 +55,8 @@
 - [ ] Update Pagination
 
 ### Upon finishing the above tasks: go to Trello for merging documentations.
+
+### Create Presentation Slides
 
 ### Prepare for Presentation upon endorsement. Task should be made on Trello Board.
 ### For the system: https://github.com/JerhomeVlogs/Tourism-system-1.1
