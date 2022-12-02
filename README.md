@@ -16,43 +16,40 @@
 - [x] Add flow charts for the current process of the current system
 - [x] Add the processes(not all) based on the interview 
 - [x] Add features of the system 
-- [ ] Attempt acceptability test DRAFT
+- [x] Attempt acceptability test(Done)
 - [x] Create Acceptability Questionnaires
 ### Update Chapter 5:
-- [ ] Create Place Holder Chapters
+- [ ] Consult to Adviser
 ### Update List of Figures:
 - [x] Update new Figures
-- [ ] Update pagination
+- [x] Update pagination
 ### Update List of Tables: Placeholder created
 - [x] Update new Tables
-- [ ] Update pagination
+- [x] Update pagination
 ### Update Appendices include Deliverables from /Deliverables/files:
 - [x] Update Gannt Chart
 - [x] Update Workplan
 - [x] Add Interview Guide
 - [x] Add Interview Result
 - [x] Update Letter to Conduct Studies
-- [ ] Create Product Backlog (Optional)
-- [ ] Create Sprint Backlog (Optional)
-- [ ] Create Sprints (Optional)
 - [x] Create Entity Relationship Diagram
 - [x] Create Use-case Diagram - [x] Should be updated
 - [x] Create Use-case Description (Draft)
 - [x] Add Acceptability Questionnaires
-- [ ] Add Tabulation of Result
+- [x] Add Tabulation of Result
 - [x] Add List of Establishments
-- [ ] Add Certification of Grammar Check
-## - [ ] Add Curriculum Vitae
+- [ ] Add Certification of Grammar Check(After Defense)
+## - [ ] Add Curriculum Vitae(After Defense)
 
 ### Table of Contents
-- [ ] Update Approval Sheet
-- [x] Add Acknowledgement(Draft)
-- [x] Add Abstract (Draft)
+- [x] Update Approval Sheet
+- [x] Acknowledgement(Done)
+- [x] Abstract (Done)
 ### Update Table of Content
-- [ ] Add Chapter 4
-- [ ] Add Chapter 5
-- [ ] Update Appendices
-- [ ] Update Pagination
+- [x] Add Chapter 4
+- [x] Add Chapter 5
+- [x] Update Appendices
+- [x] Update Pagination
 
 ### Upon finishing the above tasks: go to Trello for merging documentations.
 ### Questionnaire for Acceptance Level for System
