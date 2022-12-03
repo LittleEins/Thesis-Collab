@@ -50,6 +50,11 @@
 - [x] Add Chapter 5
 - [x] Update Appendices
 - [x] Update Pagination
+### Revisions List
+- [ ] Update Chapter 4 Acceptability Test Remove unnecessary tables
+- [ ] Update Use Case Diagram & Use case description
+- [ ] Update List of Tables if Chapter 4 is updated
+- [ ] Update Pagination in Table of Contents from head-to-toe
 
 ### Upon finishing the above tasks: go to Trello for merging documentations.
 ### Questionnaire for Acceptance Level for System
