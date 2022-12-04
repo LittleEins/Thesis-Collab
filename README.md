@@ -56,6 +56,7 @@
 - [x] Update List of Tables if Chapter 4 is updated
 - [x] Update Pagination in Table of Contents from head-to-toe
 
+https://www.qr-code-generator.com/
 ### Upon finishing the above tasks: go to Trello for merging documentations.
 ### Questionnaire for Acceptance Level for System
 https://docs.google.com/forms/d/1Fl-dSY3VPtZV3PCdpjvhje3WF2eABhuMVrSAFLSkcoM/edit#responses
