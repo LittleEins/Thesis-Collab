@@ -19,7 +19,7 @@
 - [x] Attempt acceptability test(Done)
 - [x] Create Acceptability Questionnaires
 ### Update Chapter 5:
-- [ ] Consult to Adviser
+- [x] Consult to Adviser
 ### Update List of Figures:
 - [x] Update new Figures
 - [x] Update pagination
@@ -52,7 +52,7 @@
 - [x] Update Pagination
 ### Revisions List
 - [x] Update Chapter 4 Acceptability Test Remove unnecessary tables
-- [ ] Update Use Case Diagram & Use case description
+- [x] Update Use Case Diagram & Use case description
 - [x] Update List of Tables if Chapter 4 is updated
 - [x] Update Pagination in Table of Contents from head-to-toe
 
