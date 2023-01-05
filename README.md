@@ -59,7 +59,7 @@
 - [x] Update Front pages
 - [x] Update Chap1
 - [x] Update Chap2
-- [] Update Chap3
+- [x] Update Chap3
 - [] Update Chap4
 - [] Update Chap5
 - [] Update Appendix
