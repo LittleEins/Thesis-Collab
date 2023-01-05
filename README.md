@@ -55,7 +55,17 @@
 - [x] Update Use Case Diagram & Use case description
 - [x] Update List of Tables if Chapter 4 is updated
 - [x] Update Pagination in Table of Contents from head-to-toe
-
+### Revision Final
+- [x] Update Front pages
+- [x] Update Chap1
+- [] Update Chap2
+- [] Update Chap3
+- [] Update Chap4
+- [] Update Chap5
+- [] Update Appendix
+- [] Update Pagination in Table of Contents from head-to-toe
+- [] Update Pagination in List of Tables from head-to-toe
+- [] Update Pagination in List of Figures from head-to-toe
 https://www.qr-code-generator.com/
 ### Upon finishing the above tasks: go to Trello for merging documentations.
 ### Questionnaire for Acceptance Level for System
